@@ -1,7 +1,7 @@
-##Olá! Eu sou o Herick A.Pereira
-🖋 Inicio desta jornada na programação: Janeiro/22.
-⚡ Curiosidade: acadêmica em ADS.
-👨‍⚕️ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. Thales Valentim
+## Olá! Eu sou o Herick A.Pereira    
+-🖋 Inicio desta jornada na programação: Janeiro/22.   
+-⚡ Curiosidade: acadêmica em ADS.    
+-👨‍⚕️ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. Thales Valentim.  
 
 <div align="center">
   <a href="https://github.com/herickkgb">
